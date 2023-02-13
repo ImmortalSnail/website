@@ -102,3 +102,21 @@ input[type=checkbox] {
     justify-content: center;
     gap: 5px;
 }
+
+#paragraph {
+    width: 500px;
+    text-align: center;
+    margin-bottom: 430px;
+}
+
+#paragraph p {
+    text-align: left;
+}
+
+#paragraph a {
+    color: #7749f8;
+}
+
+#paragraph li {
+    text-align: left;
+}
